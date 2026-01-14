@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "The Story",
+  "base_artist": "Thirty Seconds To Mars",
+  "createdAt": "2026-01-14T03:40:28.209754Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Please Don't Tell Me How the Story Ends",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/01_Please_Don't_Tell_Me_How_the_Story_Ends_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunrise Tells The Story",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/02_Sunrise_Tells_The_Story_Midland.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Story of My Life",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/03_The_Story_of_My_Life_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Story Of My Life (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/04_The_Story_Of_My_Life_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Story of Yo la Tango",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/05_The_Story_of_Yo_la_Tango_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Story Of Yo La Tengo",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/06_The_Story_Of_Yo_La_Tengo_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Story In Your Eyes",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/07_The_Story_In_Your_Eyes_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "And the Story Ends",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/08_And_the_Story_Ends_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How the Story Ends",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/09_How_the_Story_Ends_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So the Story Goes",
+      "artist": "Living In a Box",
+      "has_synced": false,
+      "path": "select/10_So_the_Story_Goes_Living_In_a_Box.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Can Make the Story Right",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/11_You_Can_Make_the_Story_Right_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drums (On with the Story)",
+      "artist": "Audio Bullys",
+      "has_synced": true,
+      "path": "select/12_Drums_(On_with_the_Story)_Audio_Bullys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Story So Far",
+      "artist": "Trisomie 21",
+      "has_synced": false,
+      "path": "select/13_The_Story_So_Far_Trisomie_21.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Story of a Young Heart",
+      "artist": "A Flock of Seagulls",
+      "has_synced": true,
+      "path": "select/14_The_Story_of_a_Young_Heart_A_Flock_of_Seagulls.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Story",
+      "artist": "Alex Clare",
+      "has_synced": true,
+      "path": "select/15_The_Story_Alex_Clare.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Story of Hip Hop",
+      "artist": "The Books",
+      "has_synced": true,
+      "path": "select/16_The_Story_of_Hip_Hop_The_Books.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Story",
+      "artist": "Thirty Seconds to Mars",
+      "has_synced": false,
+      "path": "select/pl_01_The_Story_Thirty_Seconds_to_Mars.txt"
+    }
+  ]
+}
